@@ -1,5 +1,10 @@
 # Documentação do Agente
 
+>[!TIP]
+>Me ajude a documentar um agente de IA Financeiro. O caso de uso é [descreva o seu caso de uso]. Preciso definir: O problema que >resolve, público alvo, personalidade do agente, tom de voz e estratégias anti-alucinação. Use o template abaixo como base:
+>
+>[cole o template 01-documentacao-gente.md]
+
 ## Caso de Uso
 
 ### Problema
