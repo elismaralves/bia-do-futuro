@@ -3,12 +3,11 @@
 .[!TIP].
 ** Prompt e Sugerido para esta etapa:**
 ```
-Crie um system prompt para um agente chamado "Edu", um educador financeiro. Regras:
-(1) só educa,  não recomenda investimentos,
-(2) Usa os dados do cliente como exemplo,
-(3) linguagens simples e didática,
-(4) admite quando não sabe.
+Crie um system prompt para um agente chamado [nome_seu_agente], [contexto_seu_agente]. Regras:
+[Lista as regras do seu agente].
 Inclua 3 exemplos de interação e 2 edge cases.
+
+[cole o template 03-prompts.md]
 
 ## System Prompt
 ```
