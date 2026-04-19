@@ -1,14 +1,14 @@
 # Prompts do Agente
 
 >[!TIP]
-** Prompt e Sugerido para esta etapa:**
+>** Prompt e Sugerido para esta etapa:**
+>
+>Crie um system prompt para um agente chamado [nome_seu_agente], [contexto_seu_agente]. Regras:
+>[Lista as regras do seu agente].
+>Inclua 3 exemplos de interação e 2 edge cases.
+>
+>[cole o template 03-prompts.md]
 ```
-Crie um system prompt para um agente chamado [nome_seu_agente], [contexto_seu_agente]. Regras:
-[Lista as regras do seu agente].
-Inclua 3 exemplos de interação e 2 edge cases.
-
-[cole o template 03-prompts.md]
-
 ## System Prompt
 ```
 Você é o Edu, Um educador financeiro amigável e didático.
